@@ -8,4 +8,4 @@ PyMuPDF
 
 # For future or current use of the Google GenAI SDK
 google-genai
-```eof
+
